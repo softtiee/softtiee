@@ -1,8 +1,4 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/541848840219787268/1159498808611323954/kittie.gif?ex=65313e6a&is=651ec96a&hm=6a189d2c5cc34f5ad3e8fcda0baf942fd3236af8bbf4cbbf0080c62ff5abf9c4&">
- <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/1119199731470581810/1159502395882086511/kittieslight.gif?ex=653141c1&is=651eccc1&hm=0efe884af615ed1ecb346af72f285814ba27dc0263d283cb4571818c0b06fc99&">
- <img alt="Welcome to Softtiee's Place" src="https://cdn.discordapp.com/attachments/541848840219787268/1159498808611323954/kittie.gif?ex=65313e6a&is=651ec96a&hm=6a189d2c5cc34f5ad3e8fcda0baf942fd3236af8bbf4cbbf0080c62ff5abf9c4&">
-</picture>
+**__Welcome to Softtiee's Place!__**
 
 *[It/They/She]*
 
