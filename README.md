@@ -1,10 +1,17 @@
-**__Welcome to Softtiee's Place!__**
+![kittie](https://github.com/user-attachments/assets/b749fc3a-cf59-46e3-b27d-bfa9673fa739)
+# Softtiee's Studies!!
+> *[she/they/it]*
 
-*[It/They/She]*
 
-- Local lost CS major
-- I don't drink coffee
-- I draw a lot :) [Feel free to look!](https://softscomms.carrd.co)
+> [!IMPORTANT]
+> * CS major at Rochester Institute of Technology (exp '27)
+> * I don't drink coffee but I love smoothies and tea
+> * Currently working on making a website from scratch! :D
+
+Talk to me!
+Discord - vyxin.
+[Insta for art](https://www.instagram.com/softtt.e/)
+[Caard for art commissions](https://softscomms.carrd.co)
 
 <!--
 **softtiee/softtiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
