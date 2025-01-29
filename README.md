@@ -8,11 +8,6 @@
 > * I don't drink coffee but I love smoothies and tea
 > * Currently working on making a website from scratch! :D
 
-Talk to me!
-Discord - vyxin.
-[Insta for art](https://www.instagram.com/softtt.e/)
-[Caard for art commissions](https://softscomms.carrd.co)
-
 <!--
 **softtiee/softtiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
