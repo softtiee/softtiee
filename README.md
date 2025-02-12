@@ -3,7 +3,7 @@
 </p>
 
 <h1>Softtiee's Studies!!</h1>
-> *[she/they/it]*
+<i>[she/they/it]</i>
 
 
 > [!IMPORTANT]
