@@ -7,6 +7,4 @@
 
 
 > [!IMPORTANT]
-> * CS major at Rochester Institute of Technology (exp '27)
-> * I don't drink coffee but I love smoothies and tea
-> * Currently working on making a website from scratch! :D
+> * silly
